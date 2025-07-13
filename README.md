@@ -39,6 +39,8 @@ Hi there! I’m Harshita, a passionate Information Technology undergrad at IGDTU
 ### 🚀 Featured Projects
 🔹 [**Sakhi – Women Empowerment Web Platform**](https://github.com/classrep12/sakhi-support-bot)  
 > An AI-powered single-page platform for women facing harassment, offering anonymous story sharing, health education, chatbot support, and geolocation-based helpline detection.
+
+
 🔹 [**Student Performance Predictor**](https://github.com/classrep12/Student-Performance-Predictor)  
 > Predicts student academic outcomes using Random Forest, XGBoost, and CatBoost models. Achieved 90%+ accuracy.  
 
