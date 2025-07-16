@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Harshita Tiwari ✨
 
-**Aspiring Software Engineer | Web Developer | ML Enthusiast | Open Source Contributor**
+**Aspiring Software Engineer | Web Developer | ML Enthusiast | Problem Solver**
 
 ---
 
