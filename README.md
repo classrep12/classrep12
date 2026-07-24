@@ -1,91 +1,158 @@
-## Hi there 👋
-# Harshita Tiwari ✨
+<div align="center">
 
-**Aspiring Software Engineer | Web Developer | ML Enthusiast | Problem Solver**
+# Hi 👋, I'm Harshita Tiwari
 
----
+### Software Engineer • AI & Full-Stack Developer • Building Intelligent Systems
 
-### 💁‍♀️ About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
-Hi there! I’m Harshita, a passionate Information Technology undergrad at IGDTUW. I enjoy building meaningful tech — from web apps that serve communities to predictive models solving real-world problems. I thrive in collaborative spaces, especially those empowering women in tech.
+<a href="https://www.linkedin.com/in/harshitatiwari948/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🎓 B.Tech in IT @ IGDTUW (2023–2027)
-- 🏆 Amazon Future Engineer Scholar & Reliance Foundation UG Scholar
-- 🔭 Currently: Building AI-integrated solutions & exploring system design
-- 🧠 Interests: AI + Web Integration, Social Tech, Ethical Hacking, Generative AI
+<a href="mailto:harshitat948@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/classrep12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 💼 Experience
+<img src="https://komarev.com/ghpvc/?username=classrep12&style=for-the-badge&color=blue" />
 
-**Machine Learning Intern**  
-*Centre of Excellence – AI, IGDTUW | Jun–Jul 2024*  
-- Developed models using Python for regression & classification  
-- Used Pandas, Seaborn, Matplotlib for EDA and visualization  
-- Collaborated on evaluating performance metrics
+</div>
 
 ---
 
-### 💻 Tech Stack & Tools
+# 💻 Tech Stack
 
-**Languages:** Python, Java, C++  
-**Web:** HTML, CSS, JavaScript, Bootstrap, SQL  
-**ML Tools:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, FB Prophet  
-**Platforms:** Git, Jupyter, VS Code, Google Colab  
-**Design:** Canva, Figma  
+### Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql"/>
+</p>
 
-### 🚀 Featured Projects
-🔹 [**Sakhi – Women Empowerment Web Platform**](https://github.com/classrep12/sakhi-support-bot)  
-> An AI-powered single-page platform for women facing harassment, offering anonymous story sharing, health education, chatbot support, and geolocation-based helpline detection.
+### Web Development
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express"/>
+</p>
 
-🔹 [**Student Performance Predictor**](https://github.com/classrep12/Student-Performance-Predictor)  
-> Predicts student academic outcomes using Random Forest, XGBoost, and CatBoost models. Achieved 90%+ accuracy.  
+### AI / Machine Learning
 
-🔹 [**MedSahayog: AI Health Assistant**](https://github.com/classrep12/MedSahayog-Project)  
-> AI-powered assistant for basic health inquiries and symptom-based medicine suggestions.  
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
 
-🔹 [**Blood Donation Website**](https://github.com/classrep12/Blood-Donation-Website)  
-> User-friendly interface to register donors, view camp schedules, and check urgent blood requests.
+`YOLOv8` • `OpenCV` • `Scikit-learn` • `NumPy` • `Pandas` • `MedGemma`
 
-🔹 [**AQI Forecasting**](https://github.com/classrep12/AQI_Index_Prediction)  
-> Time-series AQI prediction using FB Prophet with visual insights and trend analysis.
+### Tools
 
----
-
-### 🎯 Current Focus
-
-- Advancing skills in **System Design**, **Generative AI**, and **Full-Stack Development**
-- Contributing to open-source and building scalable, inclusive tech platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-### 🏅 Certifications & Recognition
+# 👩‍💻 About Me
 
-- 🛡️ Ethical Hacking & Penetration Testing – CDAC Noida  
-- 🌟 Microsoft Code; Without Barriers Mentee  
-- 🧭 FLY Scholar – Competitiveness Mindset Institute  
-- 💻 AlgoUniversity Tech Fellowship (Stage 1)  
-
----
-
-### 🌱 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&label=Harshita%20Tiwari)](https://www.linkedin.com/in/harshitatiwari948/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat&label=classrep12)](https://github.com/classrep12)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=flat&label=tiwariharshii01)](https://leetcode.com/u/tiwariharshii01/)
+- 🎓 B.Tech in Information Technology @ **IGDTUW (2023–2027)**
+- 💡 Interested in **Software Engineering, AI, Backend Development & Cloud**
+- 🚀 Passionate about building scalable, AI-powered applications
+- 📚 Currently preparing for Product-Based Software Engineering roles
+- 🌱 Learning **Cloud Engineering, System Design & Advanced DSA**
 
 ---
 
-### 📊 GitHub Stats
+# 🏆 Achievements
 
-![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=classrep12&show_icons=true&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=classrep12&layout=compact&theme=gruvbox)
+- 🥇 **IET India Scholarship Regional Finalist** *(Top 150 among 48,000+ applicants)*
+- 🥇 **Reliance Foundation Undergraduate Scholar**
+- 🥇 **Amazon Future Engineer Scholar**
+- 🥇 **Stage 2 Qualifier – AI Women Start-a-thon**
 
 ---
 
-*“Empowering communities with code — one project at a time.”*
+# 💼 Experience
 
+### 🛰 Bharat Electronics Limited (BEL) — Software & AI Intern
+
+- Worked on RF antenna testing involving VNA measurements and RF performance analysis.
+- Explored automation of RF testing workflows using advanced Excel.
+- Built an AI-powered antenna fault detection prototype using Machine Learning.
+
+### 🩺 Central Council for Research in Ayurvedic Sciences (CCRAS) — Machine Learning Intern
+
+- Developed AI-powered medical imaging solutions using YOLOv8-Seg and MedGemma.
+- Built a Brain Tumor Detection & Segmentation pipeline with **83% validation accuracy**.
+- Integrated AI models into an end-to-end diagnostic web application.
+
+---
+
+# 🚀 Featured Projects
+
+## 🛰 RF FaultSense – Intelligent Antenna Fault Detection
+
+> AI-powered antenna fault prediction system using RF performance parameters.
+
+🔗 **Repository:** https://github.com/classrep12/RF-Antenna-Fault-Detection
+
+🎥 **Demo:** *Add your Google Drive demo link here*
+
+**Tech Stack:** React • FastAPI • Python • Scikit-learn
+
+---
+
+## 🧠 MultiMedAI – AI Medical Imaging Platform
+
+> Deep learning platform for multimodal radiology image analysis.
+
+🔗 **Repository:** https://github.com/classrep12/MultiMedAI
+
+🎥 **Demo:** https://drive.google.com/file/d/1Uc9qes-WpJwmvJ65IlNFAsMALfAyNHas/view?usp=drive_link
+
+**Tech Stack:** PyTorch • YOLOv8 • MedGemma • Google AI Studio
+
+---
+
+## 🌸 Sakhi – AI-Powered Women Empowerment Platform
+
+> AI-powered platform for support, education, and community.
+
+🔗 **Repository:** https://github.com/classrep12/sakhi-support-bot
+
+**Tech Stack:** React • Node.js • Express • JavaScript
+
+---
+
+# 🌱 Currently Learning
+
+- ☁️ Cloud Engineering
+- ⚙️ Backend Development with FastAPI
+- 📚 Advanced Data Structures & Algorithms
+- 🏗️ System Design
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/harshitatiwari948/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:harshitat948@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building software that creates real-world impact."
+
+</div>
