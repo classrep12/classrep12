@@ -97,7 +97,7 @@
 
 🔗 **Repository:** https://github.com/classrep12/RF-Antenna-Fault-Detection
 
-🎥 **Demo:** https://drive.google.com/file/d/1Y76hRqbcGaM2d2Tde0UruYJajUR8yoc3/view?usp=drive_link
+🎥 **Demo:** [Link](https://drive.google.com/file/d/1Y76hRqbcGaM2d2Tde0UruYJajUR8yoc3/view?usp=drive_link)
 
 **Tech Stack:** React • FastAPI • Python • Scikit-learn
 
@@ -109,7 +109,7 @@
 
 🔗 **Repository:** https://github.com/classrep12/MultiMedAI
 
-🎥 **Demo:** https://drive.google.com/file/d/1Uc9qes-WpJwmvJ65IlNFAsMALfAyNHas/view?usp=drive_link
+🎥 **Demo:** [Link](https://drive.google.com/file/d/1Uc9qes-WpJwmvJ65IlNFAsMALfAyNHas/view?usp=drive_link)
 
 **Tech Stack:** PyTorch • YOLOv8 • MedGemma • Google AI Studio
 
