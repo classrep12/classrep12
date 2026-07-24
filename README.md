@@ -97,7 +97,7 @@
 
 🔗 **Repository:** https://github.com/classrep12/RF-Antenna-Fault-Detection
 
-🎥 **Demo:** *Add your Google Drive demo link here*
+🎥 **Demo:** https://drive.google.com/file/d/1Y76hRqbcGaM2d2Tde0UruYJajUR8yoc3/view?usp=drive_link
 
 **Tech Stack:** React • FastAPI • Python • Scikit-learn
 
